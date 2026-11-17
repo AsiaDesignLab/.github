@@ -9,11 +9,13 @@
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/remote-admin/">ADL Remote Admin</a></strong><br>
       <img src="https://adlsoftware.net/assets/products/remote-admin-viewer-032.png" alt="ADL Remote Admin Viewer showing its computer list" width="235"><br>
+      <strong><a href="https://adlsoftware.net/en/software/remote-admin/#downloads">Download ADL Remote Admin</a></strong><br>
       Access and support approved Windows PCs.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/ip-scanner/">ADL IP SCANNER</a></strong><br>
       <img src="https://adlsoftware.net/assets/products/ip-scanner-workspace-014.png" alt="ADL IP SCANNER workspace showing sample devices" width="235"><br>
+      <strong><a href="https://adlsoftware.net/en/software/ip-scanner/#downloads">Download ADL IP SCANNER</a></strong><br>
       Discover devices, cameras, and services on a local network.
     </td>
   </tr>
@@ -21,11 +23,13 @@
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/adl-messenger/">ADL Messenger</a></strong><br>
       <img src="https://adlsoftware.net/assets/products/adl-messenger-0.5.24-chat-current.jpg" alt="ADL Messenger desktop conversation with demonstration contacts" width="235"><br>
+      <strong><a href="https://messenger.asiadesignlab.com/download/windows">Download ADL Messenger</a></strong><br>
       Encrypted chats, file sharing, and voice and video calls.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/animail/">ANIMAIL</a></strong><br>
       <img src="https://adlsoftware.net/assets/products/animail-0.12.68-native-inbox.png" alt="ANIMAIL combined inbox and reading pane" width="235"><br>
+      <strong><a href="https://animail.app/download/">Download ANIMAIL</a></strong><br>
       Windows email with a combined inbox, stationery, and animated notifiers.
     </td>
   </tr>
@@ -33,11 +37,13 @@
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/samsung-sync/">ADL Phone Sync</a></strong><br>
       <img src="https://adlsoftware.net/assets/products/adl-phone-sync-overview-080.png" alt="ADL Phone Sync media archive workspace on Windows" width="235"><br>
+      <strong><a href="https://adlsoftware.net/downloads/samsung-sync/0.8.0/Samsung-Sync-Setup-0.8.0.exe">Download ADL Phone Sync</a></strong><br>
       Archive and verify media from Android, iPhone, and iPad.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/screen-translator/">ADL Screen Translator</a></strong><br>
       <img src="https://adlsoftware.net/assets/screen-translator/translation-021.png" alt="ADL Screen Translator showing a Spanish-to-English translation example" width="235"><br>
+      <strong><a href="https://adlsoftware.net/downloads/screen-translator/0.3.6/ADL-Screen-Translator-0.3.6-win-x64.msi">Download ADL Screen Translator</a></strong><br>
       Translate selected text on your Windows screen.
     </td>
   </tr>
@@ -45,6 +51,7 @@
     <td width="50%" valign="top">
       <strong><a href="https://adlsoftware.net/en/software/vigivo-ai/">VIGIVO AI</a></strong><br>
       <img src="https://adlsoftware.net/assets/products/vigivo-0.4.0-live-monitor.png" alt="VIGIVO AI Live Monitor with demonstration camera feeds" width="235"><br>
+      <strong><a href="https://vigivo.app/download/">Check download availability</a></strong><br>
       Local AI camera monitoring and recording. <strong>Early access.</strong><br><a href="https://adlsoftware.net/assets/products/VIGIVO-SCREENSHOT-ATTRIBUTION.txt">Screenshot credits</a>
     </td>
     <td width="50%" valign="top">
@@ -59,6 +66,6 @@
 
 **Codex Project Recovery** restores missing local projects to the Codex sidebar. It backs up affected state files before rebuilding the project list. For the Microsoft Store version of Codex Desktop on Windows 11.
 
-[Get the signed Windows download](https://github.com/AsiaDesignLab/codex-project-recovery/releases/latest) · [Read the recovery guide](https://github.com/AsiaDesignLab/codex-project-recovery#run-the-fix)
-
 <img src="https://raw.githubusercontent.com/AsiaDesignLab/codex-project-recovery/main/preview.png" alt="Codex Project Recovery with its terms of use and Proceed with fix button" width="410">
+
+[Download signed Codex Project Recovery](https://github.com/AsiaDesignLab/codex-project-recovery/releases/latest) · [Read the recovery guide](https://github.com/AsiaDesignLab/codex-project-recovery#run-the-fix)
