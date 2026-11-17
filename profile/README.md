@@ -1,7 +1,5 @@
 # Original software for Windows
 
-**ASIA DESIGN LAB** is an independent studio building Windows apps for communication, remote support, and everyday work.
-
 [Explore the ADL Software catalogue](https://www.adlsoftware.net/)
 
 ## Featured download
